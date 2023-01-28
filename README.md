@@ -1,3 +1,7 @@
+**Hi there:wave:**
+
+  This is Mani here. I am tech enthusiast currently learning Fullstack developer at freeCodeCamp. I am doing my B.Tech Information Technology at M.A.M. College Of Engineering and Technology.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mkandan1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mkandan1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16755402) 
